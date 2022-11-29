@@ -1,0 +1,12 @@
+leg should be sqrt(2)/2 horizontal and matched vertical
+-> 35.35 ohm
+
+172 ps/cycle
+35 ohm legs: 0.75 mm, 172 ps / 30 mm = 5.73 ps/mm = 12.0 deg/mm
+50 ohm feedlines: 0.45 mm, 168 ps / 30 mm = 5.6 ps/mm = 11.72 deg/mm
+70 ohm ring: 0.25 mm, 164 ps / 30 mm = 5.46 ps/mm = 11.43 deg/mm
+
+90 deg length for 35 ohm: 7.5 mm
+90 deg length for 50 ohm: 7.68 mm
+
+7.8926 * 2 = 15.7852
